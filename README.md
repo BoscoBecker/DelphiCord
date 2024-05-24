@@ -34,10 +34,15 @@ Download e extract in "C:\DelphiCord"
 
 /Win32/Debug - output for DelphiCord.exe, discord-rpc.dll, DiscordStatus.bpl,send-presence.exe 
 
-External source 
+External source  Discord RPC  https://github.com/discord/discord-rpc
 
 
+# 💬 Contributions / Ideas / Bug Fixes
+To submit a pull request, follow these steps:
 
-
-Discord RPC  https://github.com/discord/discord-rpc
-
+1. Fork the project
+2. Create a new branch (`git checkout -b minha-nova-funcionalidade`)
+3. Make your changes
+4. Make the commit (`git commit -am 'Functionality or adjustment message'`)
+5. Push the branch (`git push origin Message about functionality or adjustment`)
+6. Open a pull request
