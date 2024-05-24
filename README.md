@@ -20,7 +20,11 @@ First, head over to the [Discord developers site](https://discordapp.com/develop
 ### 💾 Installation
 Download and extract to `C:\DelphiCord`.
 
-### 📂 Folders
+![image](https://github.com/BoscoBecker/DelphiCord/assets/6303278/0e0f055f-207e-4434-a4db-68c8ad4cddaf)
+
+
+
+### 📂 Folders / 🚨 See the folder permission
 
 - `/Discordrpc` - Contains Discord RPC DLLs.
 - `/Package` - Plugin for the IDE.
