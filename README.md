@@ -1,7 +1,5 @@
 # 🎮 Discord Rich Presence Extension for Delphi
 
-![image](https://github.com/BoscoBecker/DelphiCord/assets/6303278/6a4998b1-d59f-4451-a064-59882a3381e3)
-
 ## 📖 Description
 This extension integrates Discord Rich Presence with the Delphi IDE, showing what you're editing in Delphi on your Discord profile.
 
