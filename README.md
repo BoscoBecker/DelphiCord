@@ -21,6 +21,10 @@ Download and extract to `C:\DelphiCord`.
 ![image](https://github.com/BoscoBecker/DelphiCord/assets/6303278/0e0f055f-207e-4434-a4db-68c8ad4cddaf)
 
 
+### ✈ Where are?
+![image](https://github.com/BoscoBecker/DelphiCord/assets/6303278/dbfae756-69a5-4903-8b74-3f1d7eb81cdf)
+
+
 
 ### 📂 Folders / 🚨 See the folder permission
 
