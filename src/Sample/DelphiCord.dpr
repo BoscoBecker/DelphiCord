@@ -5,7 +5,8 @@ uses
   Umain in 'Umain.pas' {FrmMain},
   DiscordRPC in '..\Source\DiscordRPC.pas',
   Vcl.Themes,
-  Vcl.Styles;
+  Vcl.Styles,
+  Discord.Consts in '..\Package\Discord.Consts.pas';
 
 {$R *.res}
 

@@ -5,7 +5,7 @@ interface
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.StdCtrls,DiscordRPC,
-  Vcl.WinXCtrls, Vcl.Imaging.pngimage;
+  Vcl.WinXCtrls, Vcl.Imaging.pngimage, Discord.Settings;
 
 type
   TFrmMain = class(TForm)
@@ -96,7 +96,7 @@ end;
 
 function TFrmMain.UseApplicationID: string;
 begin
-  result:= CLIENTE_ID;
+  result:= TDiscordSettings.LoadENV(ApplicationID);
   if  (cbAddClienteID.Checked) and  (((EdtID.Text = '') or (Length(EdtID.Text) < 5)))then
     result:= EdtID.Text;
 end;

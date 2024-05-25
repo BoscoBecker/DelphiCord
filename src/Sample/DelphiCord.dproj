@@ -102,6 +102,7 @@
             <FormType>dfm</FormType>
         </DCCReference>
         <DCCReference Include="..\Source\DiscordRPC.pas"/>
+        <DCCReference Include="..\Package\Discord.Consts.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
@@ -128,7 +129,7 @@
                 </Excluded_Packages>
             </Delphi.Personality>
             <Deployment Version="3">
-                <DeployFile LocalName="Win32\Debug\DelphiCord.exe" Configuration="Debug" Class="ProjectOutput">
+                <DeployFile LocalName="..\Win32\Debug\DelphiCord.exe" Configuration="Debug" Class="ProjectOutput">
                     <Platform Name="Win32">
                         <RemoteName>DelphiCord.exe</RemoteName>
                         <Overwrite>true</Overwrite>
