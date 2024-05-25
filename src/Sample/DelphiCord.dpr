@@ -6,7 +6,8 @@ uses
   DiscordRPC in '..\Source\DiscordRPC.pas',
   Vcl.Themes,
   Vcl.Styles,
-  Discord.Consts in '..\Package\Discord.Consts.pas';
+  Discord.Consts in '..\Package\Discord.Consts.pas',
+  Discord.Settings in '..\Package\Discord.Settings.pas';
 
 {$R *.res}
 

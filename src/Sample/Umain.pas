@@ -17,6 +17,7 @@ type
     EdtID: TEdit;
     ToggleSwitch1: TToggleSwitch;
     cbAddClienteID: TCheckBox;
+    Image2: TImage;
     procedure FormCreate(Sender: TObject);
     procedure Button1Click(Sender: TObject);
     procedure Timer1Timer(Sender: TObject);
@@ -96,7 +97,8 @@ end;
 
 function TFrmMain.UseApplicationID: string;
 begin
-  result:= TDiscordSettings.LoadENV(ApplicationID);
+  EdtID.Text:= TDiscordSettings.LoadENV(ApplicationID);
+  result:= EdtID.Text;
   if  (cbAddClienteID.Checked) and  (((EdtID.Text = '') or (Length(EdtID.Text) < 5)))then
     result:= EdtID.Text;
 end;

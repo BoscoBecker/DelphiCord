@@ -103,6 +103,7 @@
         </DCCReference>
         <DCCReference Include="..\Source\DiscordRPC.pas"/>
         <DCCReference Include="..\Package\Discord.Consts.pas"/>
+        <DCCReference Include="..\Package\Discord.Settings.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
