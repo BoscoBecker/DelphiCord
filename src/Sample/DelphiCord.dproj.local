@@ -1,18 +1,2 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-	<Transactions>
-    <Transaction>2024/02/04 18:10:15.000.438,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/02/16 19:58:27.000.315,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/02/16 19:59:55.000.370,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/02/26 23:32:46.000.762,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/05/23 14:45:10.000.715,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
-    <Transaction>2024/05/23 14:45:41.000.748,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit3.pas=D:\Projetos\Delphi\Discord\DelphiCord\src\Sample\Umain.pas</Transaction>
-    <Transaction>2024/05/23 14:45:41.000.748,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit3.dfm=D:\Projetos\Delphi\Discord\DelphiCord\src\Sample\Umain.dfm</Transaction>
-    <Transaction>2024/05/23 14:51:59.000.029,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Projetos\Delphi\Discord\DelphiCord\DelphiCord.dproj</Transaction>
-    <Transaction>2024/05/23 14:53:06.000.869,=D:\Projetos\Delphi\Discord\DelphiCord\Unit1.pas</Transaction>
-    <Transaction>2024/05/23 14:53:29.000.750,D:\Projetos\Delphi\Discord\DelphiCord\Unit1.pas=D:\Projetos\Delphi\Discord\DelphiCord\src\Source\DiscordRPC.pas</Transaction>
-    <Transaction>2024/05/23 15:19:01.000.464,D:\Projetos\Delphi\Discord\DelphiCord\src\Source\DiscordRPC.pas=D:\Projetos\Delphi\Discord\DelphiCord\src\Source\UDiscordRPC.pas</Transaction>
-    <Transaction>2024/05/23 17:13:43.000.948,D:\Projetos\Delphi\Discord\DelphiCord\src\Source\UDiscordRPC.pas=D:\Projetos\Delphi\Discord\DelphiCord\src\Source\DiscordRPC.pas</Transaction>
-    <Transaction>2024/05/23 18:05:47.000.484,D:\Projetos\Delphi\Discord\DelphiCord\src\Sample\DelphiCord.dproj=D:\Projetos\Delphi\Discord\DelphiCord\DelphiCord.dproj</Transaction>
-  </Transactions>
-</BorlandProject>
+<BorlandProject/>

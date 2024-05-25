@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/05/25 13:58:35.165,C:\DelphiCord\src\GroupDelphiCord.groupproj=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj</Transaction>
+  </Transactions>
+  <Default.Personality>
+    <Projects ActiveProject="C:\DelphiCord\src\Package\Discord.dproj"/>
+  </Default.Personality>
+</BorlandProject>

@@ -5,7 +5,6 @@ interface
 uses
   System.SysUtils, System.Classes, Winapi.Windows,System.Win.Registry, System.IOUtils;
 
-CONST CLIENTE_ID = '1242970939033911407';
 
 type
   TDiscordRPC = class
@@ -24,12 +23,8 @@ type
 
 implementation
 
-uses
-  Vcl.Dialogs;
+uses  Vcl.Dialogs, Discord.Consts;
 
-const
-  DiscordLibrary = 'discord-rpc.dll';
-  DiscordLibraryRPC = 'C:\DelphiCord\src\Win32\Debug\';
 
 type
   DiscordEventHandlers = record
@@ -94,7 +89,7 @@ var
   Handlers: DiscordEventHandlers;
   path: PwideChar;
 begin
-  path:= Pchar(DiscordLibraryRPC + DiscordLibrary);
+  path:= Pchar(DISCORD_LIBRABRY_RPC + DISCORD_LIBRABRY);
   FLibraryHandle := LoadLibrary(path);
   if FLibraryHandle = 0 then
     raise Exception.Create('Could not load Discord RPC library.');

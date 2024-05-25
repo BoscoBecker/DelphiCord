@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/05/24 21:45:01.000.585,=rtl.dcp</Transaction>
+    <Transaction>2024/05/24 21:46:40.000.480,=rtl.dcp</Transaction>
+    <Transaction>2024/05/24 21:47:39.000.466,=C:\DelphiCord\src\Package\Discord.pas</Transaction>
+    <Transaction>2024/05/24 21:47:50.000.838,C:\DelphiCord\src\Package\Discord.pas=</Transaction>
+    <Transaction>2024/05/24 21:48:17.000.548,=C:\DelphiCord\src\Package\Discord.Status.pas</Transaction>
+    <Transaction>2024/05/24 21:48:36.000.173,C:\DelphiCord\src\Package\Discord.dproj=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2024/05/24 21:49:10.000.876,=designide.dcp</Transaction>
+    <Transaction>2024/05/24 21:49:31.000.757,=C:\DelphiCord\src\Source\DiscordRPC.pas</Transaction>
+    <Transaction>2024/05/24 21:49:41.000.891,C:\DelphiCord\src\Source\DiscordRPC.pas=</Transaction>
+    <Transaction>2024/05/24 21:50:04.000.126,=C:\DelphiCord\src\Package\View\View.Discord.Settings.pas</Transaction>
+    <Transaction>2024/05/24 21:50:25.000.797,=C:\DelphiCord\src\Source\DiscordRPC.pas</Transaction>
+    <Transaction>2024/05/24 22:27:41.000.070,=C:\DelphiCord\src\Package\Discord.Settings.pas</Transaction>
+    <Transaction>2024/05/24 22:36:27.000.880,=C:\DelphiCord\src\Package\Discord.Consts.pas</Transaction>
+    <Transaction>2024/05/24 22:42:23.000.762,=C:\DelphiCord\src\Win32\Debug\.env</Transaction>
+    <Transaction>2024/05/24 22:42:38.000.706,C:\DelphiCord\src\Win32\Debug\.env=</Transaction>
+    <Transaction>2024/05/24 22:43:15.000.655,=C:\DelphiCord\src\.env</Transaction>
+    <Transaction>2024/05/24 22:43:15.000.805,=C:\DelphiCord\src\.gitgnore</Transaction>
+    <Transaction>2024/05/24 22:44:13.000.050,=C:\DelphiCord\src\Package\.gitgnore</Transaction>
+    <Transaction>2024/05/24 22:44:13.000.003,=C:\DelphiCord\src\Package\.env</Transaction>
+    <Transaction>2024/05/24 23:03:57.000.106,C:\DelphiCord\src\Package\.env=</Transaction>
+    <Transaction>2024/05/24 23:04:30.000.701,=C:\DelphiCord\src\Package\.env</Transaction>
+    <Transaction>2024/05/24 23:37:06.000.406,C:\DelphiCord\src\Package\.env=</Transaction>
+    <Transaction>2024/05/24 23:37:41.000.247,=C:\DelphiCord\src\Win32\Debug\.env</Transaction>
+    <Transaction>2024/05/25 00:19:09.000.691,C:\DelphiCord\src\Win32\Debug\.env=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\src"/>
+    <File Path="..\Source"/>
+    <File Path="..\Source\DiscordRPC.pas"/>
+    <File Path="View"/>
+    <File Path="View\View.Discord.Settings.pas"/>
+    <File Path="View\View.Discord.Settings.dfm"/>
+    <File Path=".gitgnore"/>
+    <File Path="Discord.Consts.pas"/>
+    <File Path="Discord.Settings.pas"/>
+    <File Path="Discord.Status.pas"/>
+    <File Path="designide.dcp"/>
+    <File Path="rtl.dcp"/>
+  </ProjectSortOrder>
+</BorlandProject>

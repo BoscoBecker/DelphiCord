@@ -1,0 +1,61 @@
+object FrmDiscordSettings: TFrmDiscordSettings
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsSingle
+  Caption = 'Delphi Discord Presence.'
+  ClientHeight = 227
+  ClientWidth = 596
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  Position = poScreenCenter
+  OnShow = FormShow
+  TextHeight = 15
+  object CheckBox1: TCheckBox
+    Left = 168
+    Top = 48
+    Width = 193
+    Height = 17
+    Caption = 'Enable Discord Status '
+    TabOrder = 0
+    OnClick = CheckBox1Click
+  end
+  object CheckBox2: TCheckBox
+    Left = 200
+    Top = 71
+    Width = 193
+    Height = 17
+    Caption = 'Use Application ID'
+    TabOrder = 1
+  end
+  object EdtApplicationID: TEdit
+    Left = 216
+    Top = 94
+    Width = 121
+    Height = 23
+    TabOrder = 2
+    TextHint = 'ApplicationID'
+  end
+  object CheckBox3: TCheckBox
+    Left = 168
+    Top = 123
+    Width = 193
+    Height = 17
+    Caption = 'Habiliar ao Abrir IDE'
+    TabOrder = 3
+    Visible = False
+  end
+  object Button1: TButton
+    Left = 464
+    Top = 168
+    Width = 175
+    Height = 41
+    Caption = 'Salvar'
+    Style = bsCommandLink
+    TabOrder = 4
+  end
+end
