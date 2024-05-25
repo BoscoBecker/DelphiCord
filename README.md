@@ -42,3 +42,4 @@ To submit a pull request, follow these steps:
 5. 📤 Push the branch (`git push origin my-new-feature`).
 6. 🔄 Open a pull request.
 
+Give me a Star.
