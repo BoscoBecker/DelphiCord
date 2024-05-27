@@ -170,9 +170,9 @@ begin
   SetFCurrentFile(aFile);
 
   if aFile.Trim.IsEmpty and FCurrentFile.Trim.IsEmpty then
-    FDiscord.UpdatePresence('Editing Delphi: No active file, Start at :', FormatDateTime('dd/mm/yyyy hh:mm:ss', Now), '__embarcadero_delphi', '')
+    FDiscord.UpdatePresence('Editing File: No active file, Start at :', FormatDateTime('dd/mm/yyyy hh:mm:ss', Now), '__embarcadero_delphi', '')
   else
-    FDiscord.UpdatePresence('Editing Delphi: ' + IfThen(aFile.IsEmpty, FCurrentFile, aFile), ' Start at :' + FormatDateTime('dd/mm/yyyy hh:mm:ss', Now), '__embarcadero_delphi', '');
+    FDiscord.UpdatePresence('Editing File: ' + IfThen(aFile.IsEmpty, FCurrentFile, aFile), ' Start at :' + FormatDateTime('dd/mm/yyyy hh:mm:ss', Now), '__embarcadero_delphi', '');
 end;
 
 procedure TFrmDiscordSettings.Button1Click(Sender: TObject);

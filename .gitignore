@@ -1,0 +1,6 @@
+
+*.~126~
+*.identcache
+*.~116~
+src/Package/Discord.identcache
+*.identcache
